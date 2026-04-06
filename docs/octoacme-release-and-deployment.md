@@ -14,6 +14,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Release notes drafted
 - Rollback / mitigation plan documented
 - Smoke tests prepared
+- QA Lead sign-off on release readiness
+- DevOps Engineer has verified pipeline, environment configuration, and rollback procedure
+- UX Designer has validated UI against design specs (for releases with UI changes)
 
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
@@ -36,3 +39,5 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+> See [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md) for DevOps Engineer and QA Lead role details, and [octoacme-raci-matrix.md](./octoacme-raci-matrix.md) for ownership during the Release phase.

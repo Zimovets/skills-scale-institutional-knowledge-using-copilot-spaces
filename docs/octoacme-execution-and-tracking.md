@@ -38,3 +38,9 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] QA Lead has reviewed and signed off on the test strategy for this sprint/milestone
+- [ ] DevOps Engineer has confirmed environment parity between staging and production
+- [ ] UX Designer has completed design handoff for in-scope features
+- [ ] BA has confirmed all in-scope requirements are documented and traceable
+
+> See [octoacme-roles-and-personas.md](./octoacme-roles-and-personas.md) for role definitions and [octoacme-raci-matrix.md](./octoacme-raci-matrix.md) for ownership during Execution phase.
